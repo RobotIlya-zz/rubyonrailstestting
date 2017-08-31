@@ -1,2 +1,0 @@
-# rubyonrailstestting
-TEST KNOWIFY STUFFS
